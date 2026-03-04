@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Buvári Ildikó",
+    "role": "Fodrász",
+    "bio": "Immár 21 éve vagyok hivatásos fodrász. Képesítésemet Kanadában szereztem meg.",
+    "color": "#f3c7c6",
+    "image": "assets/hd1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Illés Noémi",
+    "role": "Fodrász, hajszobrász",
+    "bio": "Tíz éve dolgozom a szakmában és szerencsésnek mondhatom magam.",
+    "color": "#c7d7f3",
+    "image": "assets/hd2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Nagy Petra",
+    "role": "Fodrász",
+    "bio": "Szeretem a természetes hatású frizurákat és a gyors, precíz vágásokat.",
+    "color": "#c7f3d0",
+    "image": "assets/hd3.jpg"
+  }
+]
